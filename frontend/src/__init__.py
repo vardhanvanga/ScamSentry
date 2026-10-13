@@ -1,0 +1,1 @@
+"""ScamSentry Frontend Support Package"""

@@ -1,0 +1,13 @@
+torch
+torch_geometric
+xgboost
+scikit-learn
+pandas
+numpy
+shap
+pyvis
+streamlit
+fastapi
+uvicorn
+python-dotenv
+plotly

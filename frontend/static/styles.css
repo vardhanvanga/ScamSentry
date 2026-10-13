@@ -1,0 +1,18 @@
+/* ScamSentry Frontend Dashboard Styles */
+.metric-card {
+    background-color: #1e222b;
+    border-radius: 8px;
+    padding: 16px;
+    margin-bottom: 12px;
+    border-left: 4px solid #00c853;
+}
+.metric-card.fraud {
+    border-left: 4px solid #ff4b4b;
+}
+.metric-card.warning {
+    border-left: 4px solid #ffa726;
+}
+.stApp {
+    background-color: #0e1117;
+    color: #ffffff;
+}
